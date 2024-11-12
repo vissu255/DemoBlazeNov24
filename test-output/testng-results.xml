@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T19:28:01 IST" name="Default suite" finished-at="2024-11-11T19:31:51 IST" duration-ms="230034">
+    <groups>
+    </groups>
+    <test started-at="2024-11-11T19:28:01 IST" name="Default test" finished-at="2024-11-11T19:31:51 IST" duration-ms="230034">
+      <class name="com.qa.demoblaze.tests.IndexpageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:28:01 IST" name="setUp" finished-at="2024-11-11T19:28:13 IST" duration-ms="11912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="placeAnOrderTest()[pri:1, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:28:13 IST" name="placeAnOrderTest" finished-at="2024-11-11T19:29:41 IST" duration-ms="87544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeAnOrderTest -->
+        <test-method signature="isItemListEnabledTest()[pri:2, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:29:41 IST" name="isItemListEnabledTest" finished-at="2024-11-11T19:29:41 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isItemListEnabledTest -->
+        <test-method signature="categoryListButtonsFunctioningTest()[pri:3, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:29:41 IST" name="categoryListButtonsFunctioningTest" finished-at="2024-11-11T19:30:56 IST" duration-ms="75429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryListButtonsFunctioningTest -->
+        <test-method signature="isAboutusButtonEnabledTest()[pri:4, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:30:56 IST" name="isAboutusButtonEnabledTest" finished-at="2024-11-11T19:31:07 IST" duration-ms="10196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isAboutusButtonEnabledTest -->
+        <test-method signature="pageTitleTest()[pri:5, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:31:07 IST" name="pageTitleTest" finished-at="2024-11-11T19:31:07 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleTest -->
+        <test-method signature="pageUrlTest()[pri:6, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:31:07 IST" name="pageUrlTest" finished-at="2024-11-11T19:31:07 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageUrlTest -->
+        <test-method signature="isContactUsEnabled()[pri:7, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:31:07 IST" name="isContactUsEnabled" finished-at="2024-11-11T19:31:33 IST" duration-ms="26106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isContactUsEnabled -->
+        <test-method signature="signUpButtonTest()[pri:8, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:31:33 IST" name="signUpButtonTest" finished-at="2024-11-11T19:31:51 IST" duration-ms="18007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.demoblaze.tests.IndexpageTest@4b013c76]" started-at="2024-11-11T19:31:51 IST" name="tearDown" finished-at="2024-11-11T19:31:51 IST" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.demoblaze.tests.IndexpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
